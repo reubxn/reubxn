@@ -2,7 +2,7 @@
 🎓 Engineering @ Trinity College Dublin  
 🏎️ Self-driving cars & Formula Student  
 🚀 Co-founder, HackEurope (1000+ hackers)  
-🎨 Designer & tinkerer  
+🎨 Designer & Engineer  
 📍 Dublin, Ireland  
 
 ---
@@ -15,8 +15,8 @@
 ## Tech & Tools
 ```javascript
 const me = {
-  languages: ["C++", "Python", "TypeScript", "JavaScript", "LaTeX", "HTML"],
+  languages: ["C++", "Python", "TypeScript", "JavaScript"],
   frameworks: ["React", "React Native", "Next.js", "Node.js", "Expo", "TailwindCSS"],
-  tools: ["AWS", "Firebase", "Supabase", "Vercel", "NPM", "PNPM", "SQLite", "MongoDB"],
-  design: ["Adobe CC", "Figma", "Canva"]
+  tools: ["AWS", "Firebase", "Supabase", "Vercel", "MongoDB"],
+  design: ["Adobe CC", "Figma"]
 };
