@@ -1,9 +1,9 @@
 # About Me
-🎓 Engineering @ Trinity College Dublin  
-🏎️ Self-driving cars & Formula Student  
-🚀 Co-founder, HackEurope (1000+ hackers)  
-🎨 Designer & Engineer  
-📍 Dublin, Ireland  
+- Engineering @ Trinity College Dublin  
+- Self-driving cars & Formula Student  
+- Co-founder, HackEurope (1000+ hackers)  
+- Designer & Engineer  
+-  Dublin, Ireland  
 
 ---
 
