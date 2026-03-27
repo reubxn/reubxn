@@ -13,10 +13,14 @@
 ---
 
 ## Tech & Tools
-```javascript
-const me = {
-  languages: ["C++", "Python", "TypeScript", "JavaScript"],
-  frameworks: ["React", "React Native", "Next.js", "Node.js", "Expo", "TailwindCSS"],
-  tools: ["AWS", "Firebase", "Supabase", "Vercel", "MongoDB"],
-  design: ["Adobe CC", "Figma"]
-};
+```cpp
+#include <vector>
+#include <string>
+
+struct Me {
+    std::vector<std::string> languages = {"C++", "Python", "TypeScript", "JavaScript"};
+    std::vector<std::string> frameworks = {"React", "React Native", "Next.js", "Node.js", "Expo", "TailwindCSS"};
+    std::vector<std::string> tools = {"AWS", "Firebase", "Supabase", "Vercel", "MongoDB"};
+    std::vector<std::string> design = {"Adobe CC", "Figma"};
+} me;
+```
