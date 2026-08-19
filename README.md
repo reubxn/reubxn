@@ -8,6 +8,7 @@ struct Me {
     };
 
     std::vector<std::string> experience = {
+        "AI Intern @ Supercell",
         "Formula Trinity ADS Engineer",
         "HackEurope Co-founder",
         "Null Fellow",
